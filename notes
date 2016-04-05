@@ -1,0 +1,22 @@
+Here are some tutorials to follow :
+- http://rustbyexample.com/index.html
+- https://zsiciarz.github.io/24daysofrust/book/day1.html
+
+
+Here are some blog posts to read or to remember time to time:
+- https://internals.rust-lang.org/t/newcomer-to-rust-my-experience/1816
+
+To learn more abour Rust Internals,look here:
+- https://internals.rust-lang.org/
+
+
+Mongo Rust Driver:
+https://www.mongodb.com/blog/post/the-new-mongodb-rust-driver
+
+Atom - Rust language package
+https://github.com/zargony/atom-language-rust
+
+Rust Autocode completion 
+https://github.com/phildawes/racer
+https://github.com/edubkendo/atom-racer
+http://phildawes.net/blog/2014/05/10/racer/
