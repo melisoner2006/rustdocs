@@ -20,3 +20,10 @@ Rust Autocode completion
 https://github.com/phildawes/racer
 https://github.com/edubkendo/atom-racer
 http://phildawes.net/blog/2014/05/10/racer/
+
+How to run rust code?
+
+It is a compiled language. So first:
+ `rustc myfile.rs`
+ `./myfile`
+
